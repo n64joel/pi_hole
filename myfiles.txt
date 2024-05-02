@@ -1,0 +1,8 @@
+redirector.googlevideo.com
+youtubei.googleapis.com
+rr2---sn-qxo7rn7k.googlevideo.com
+www.youtube.com
+s.youtube.com
+video-stats.l.google.com
+oauthaccountmanager.googleapis.com
+www.googleapis.com
